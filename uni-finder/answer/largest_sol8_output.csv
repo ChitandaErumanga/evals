@@ -1,0 +1,6 @@
+Compound,Solvent,aFc (coordination percentage of fluorinated cyclic carbonate),aFEMC (coordination percentage of fluorinated cyclic carbonate),aFC/aFEMC (ratio of coordination percentages),XFC/XFEMC (relative solvating power of fluorinated cyclic carbonate)
+,,,,,
+1:4:4 LiPF:FEC:FEMC,FEC,0.56,0.44,1.26,1.42
+1:4:4 LiPF:FEC:FEMC,FEMC,,,,
+1:4:4 LiPF:DFEC:FEMC,DFEC,0.13,0.48,0.28,0.23
+1:4:4 LiPF:DFEC:FEMC,FEMC,,,,

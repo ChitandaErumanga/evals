@@ -1,0 +1,58 @@
+Compound,Solvent,LiClO_4 G./100 G.Solvent,Mole Fraction LiClO_4,Dielectric Constant,"Dipole Moment, Debyes"
+,,,,,
+LiClO_4,Acetic,108.7 ± 0.1,0.38,6.15 (20°),0.83
+LiClO_4,Triffuoroacetic,11.7 ± 0.0,0.111,39.5 (20°),2.28
+LiClO_4,Butyric,60.0 ± 0.3,0.332,2.97 (20°),0.63
+LiClO_4,n-Octanoic,32.1 ± 0.3,0.303,,
+LiClO_4,Methyl,182.3,,32.6 (25°),1.66
+LiClO_4,Ethyl,151.8,,24.3 (25),1.68
+LiClO_4,n-Propyl,105.0,,20.1 (25°),1.66
+LiClO_4,Isopropyl,112.1 ± 0.1,,18.3 (25°),1.68
+LiClO_4,n-Butyl,79.3,,17.1 (25°),1.68
+LiClO_4,sec-Butyl,77.1 ± 0.1,,15.8 (25°),
+LiClO_4,Iso-butyl,58.1,,,
+LiClO_4,tert-Butyl^2 (30°),0.6 ± 0.0,,,
+LiClO_4,1-Octanol,43.8 ± 0.1,,10.3 (20°),1.68
+LiClO_4,2-Octanol,44.7 ± 0.2,,,
+LiClO_4,Cyclohexanol,5.9 ± 0.1,,15.0 (25°),1.9
+LiClO_4,Benzyl,49.8 ± 0.3,,13.1 (20°,1.66
+LiClO_4,Ethyleneglycol,96.7 ± 0.4,,,
+LiClO_4,n-Propylamine,59.1 ± 0.3,,,1.26
+LiClO_4,n-Butylamine,45.7 ± 0.3,,5.3 (21°),1.40
+LiClO_4,sec-Butylamine,45.7 ± 0.2,,,1.28
+LiClO_4,tert-Butylamine,10.7 ± 0.3,,,
+LiClO_4,Dibutylamine,45.6 ± 0.4,,,1+
+LiClO_4,Tributylamine,0.4 ± 0.0,,+,
+LiClO_4,cyclohexylamine,16.9 ± 0.1,,5.37 (-21°,1.32
+LiClO_4,Pyridine,8.7 ± 0.1,,12.3 (25),2.20
+LiClO_4,Aniline,6.1 ± 0.2,,6.89 (20°),1.51
+LiClO_4,N-methylaniline,1.4 ± 0.1,,111,
+LiClO_4,"N,N-dimethylaniline",0.1 ± 0.0,,,
+LiClO_4,Ethylenediamine,48.0 ± 0.3,,14.2 (20°),1.90
+LiClO_4,Ethylacetate,95.1,,6.02 (25°),1.81
+LiClO_4,Ethyibenzoate,29.2 ± 0.2,,6.02 (20),1.99
+LiClO_4,Diethylcarbonate,52.6 ± 0.1,,2.82 (20°),
+LiClO_4,Diethylsebacate,21.3 ± 0.1,,,
+LiClO_4,Diethylphthalate,5.5 ± 0.0,,,
+LiClO_4,n-Butylnitrite,3.4 ± 0.0,,++,
+LiClO_4,Benzylacetate,50.1 ± 0.4,,5.1 (21),1.80
+LiClO_4,Ethylacetoacetate,76.7 ± 0.1,,,
+LiClO_4,Diethyl ether,113.7,,4.34 (20°),1.15
+LiClO_4,n-Butyl ether,13.6 ± 0.2,,3.06 (25°),1.22
+LiClO_4,Tetrahydrofuran,27.1 ± 0.2,,,
+LiClO_4,D-Dioxane,0.2 ± 0.1,,2.21 (25°,0.45
+LiClO_4,Anisole,0.1 ± 0.0,,4.33 (25°),1.20
+LiClO_4,Propylene oxide,91.4 ± 0.6,,,1.98
+LiClO_4,Acetone,136.5,,(25°),2.72
+LiClO_4,Cyclopentanone,63.8 ± 0.2,,,
+LiClO_4,Cyclohexanone,54.0 ± 0.3,,18.3 (20°),2.8
+LiClO_4,Acetophenone,110.5 ± 0.7,,78.5 (17°),2.57
+LiClO_4,Benzaldehyde,51.5 ± 0.3,,17.8(20°),2.77
+LiClO_4,Acetonitrile,16.3 ± 0.1,,37.5(20°,3.37
+LiClO_4,Benzonitrile,21.9 ± 0.2,,25.2 (25°,4.05
+LiClO_4,Nitrobenzene,0.2 ± 0.0,,34.8(25°),3.99
+LiClO_4,"N,N-Dimethylformamide",75.0 ± 0.2,,20.7 (19°),2.8
+LiClO_4,Acetic anhydride,8.1 ± 0.0,,,
+LiClO_4,2-Ethoxyethanol,136.6 ± 0.4,,+.·,2.08
+LiClO_4,2-Aminoethanol,78.9 ± 0.9,,,
+LiClO_4,m-Cresol,8.5 ± 0.0,,11.8 (25°),1.54

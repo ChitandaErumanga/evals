@@ -1,0 +1,4 @@
+Compound,Solvent,aFEC,aFEMC,aFEC/aFEMC,X_FEC/X_FEMC
+,,,,,
+1:4:4 LiPF:FEC:FEMC,,0.56,0.44,1.26,1.42
+1:4:4 LiPF:DFEC:FEMC,,0.13,0.48,0.28,0.23

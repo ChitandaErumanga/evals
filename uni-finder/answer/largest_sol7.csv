@@ -1,0 +1,58 @@
+Compound,Solvent,"LiClO4, G./100 G. Solvent",Mole Fraction LiClO4,Dielectric Constant,"Dipole Moment, Debyes"
+LiClO4,Acetic^a,108.7 ± 0.1,0.38,6.15 (20°),0.83
+LiClO4,Trifluoroacetic^a,11.7 ± 0.1,0.111,39.5 (20°),2.88
+LiClO4,Butyric^a,60.0 ± 0.3,0.332,2.97 (20°),0.63
+LiClO4,n-Octanoic^a,32.1 ± 0.3,0.303,,
+LiClO4,Methyl^b,182.3,0.354,32.6 (25°),1.66
+LiClO4,Ethyl^b,151.8,0.397,24.3 (25°),1.68 (vapor)
+LiClO4,n-Propyl^b,105,0.372,20.1 (25°),1.68
+LiClO4,Isopropyl^c,112.1 ± 0.1,0.388,18.3 (25°),1.68 (vapor)
+LiClO4,n-Butyl^b,79.3,0.356,17.1 (25°),1.68
+LiClO4,sec-Butyl^c,77.1 ± 0.1,0.349,15.8 (25°),
+LiClO4,Iso-Butyl^b,58.1,0.288,,
+LiClO4,tert-Butyl^d (30°),0.6 ± 0.0,,,
+LiClO4,"1-Octanol^d,e",43.8 ± 0.1,0.349,10.3 (20°),1.68
+LiClO4,2-Octanol^d,44.7 ± 0.2,0.354,,
+LiClO4,"Cyclohexanol^d,e",5.9 ± 0.1,0.053,15.0 (25°),1.9
+LiClO4,"Benzyl^d,c",49.8 ± 0.3,0.336,13.1 (20°),1.66
+LiClO4,Ethylene glycol^c,96.7 ± 0.4,0.361,,
+LiClO4,"n-Propyl^d,e",59.1 ± 0.3,0.247,,1.26
+LiClO4,"n-Butyl^c,e",45.7 ± 0.3,0.239,5.3 (21°),1.4
+LiClO4,"sec-Butyl^c,e",45.7 ± 0.2,0.239,,1.28
+LiClO4,"tert-Butyl^c,e",10.6 ± 0.4,0.068,,
+LiClO4,Dibutyl^d,45.4 ± 0.4,0.356,,
+LiClO4,Tributyl^d,0.6 ± 0.1,,,
+LiClO4,"Cyclohexylamine^d,e",16.9 ± 0.1,0.136,5.37 (-21°),1.32
+LiClO4,"Pyridine^c,e",8.7 ± 0.1,0.061,12.3 (25°),2.2
+LiClO4,"Aniline^d,e",6.1 ± 0.2,0.051,6.89 (25°),1.51
+LiClO4,N-methylaniline^d,1.4 ± 0.1,,,
+LiClO4,"N,N-dimethylaniline^d",0.1 ± 0.0,,,
+LiClO4,Ethylenediamine^d,48.0 ± 0.3,0.213,14.2 (20°),1.9
+LiClO4,Ethyl acetate^d,95.1,0.441,6.02 (25°),1.81
+LiClO4,Ethyl benzoate^d,29.2 ± 0.2,0.292,6.02 (25°),1.99
+LiClO4,"Diethyl carbonate^c,e",52.6 ± 0.1,0.369,2.82 (20°),
+LiClO4,Diethyl sebacate^d,21.3 ± 0.1,0.34,,
+LiClO4,Diethyl phthalate^d,5.5 ± 0.0,0.012,,
+LiClO4,"n-Butyl nitrate^e,f",3.4 ± 0.0,0.032,,
+LiClO4,Benzyl acetate^d,50.1 ± 0.4,0.414,5.1 (21°),1.8
+LiClO4,Ethyl acetoacetate^d,76.7 ± 0.1,0.484,,
+LiClO4,Diethyl^b,113.7,0.442,4.34 (20°),1.15
+LiClO4,"n-Butyl^c,e",13.6 ± 0.2,0.143,3.06 (25°),1.22
+LiClO4,"Tetrahydrofuran^c,e",27.1 ± 0.2,0.155,,
+LiClO4,"p-Dioxane^e,f",0.2 ± 0.1,,2.21 (25°),0.45
+LiClO4,Anisole^d,0.1 ± 0.0,,4.33 (25°),1.2
+LiClO4,Propylene oxide^d,91.4 ± 0.6,0.333,,1.98
+LiClO4,Acetone^b,136.5,0.427,20.7 (25°),2.72
+LiClO4,"Cyclopentanone^d,e",63.8 ± 0.3,0.335,,
+LiClO4,"Cyclohexanone^d,e",54.0 ± 0.2,0.332,18.3 (20°),2.8
+LiClO4,"Propionaldehyde^d,e",110.5 ± 0.7,0.376,78.5 (17°),2.57
+LiClO4,Benzaldehyde^d,51.5 ± 0.3,0.339,17.8 (20°),2.77
+LiClO4,"Acetonitrile^e,f",16.3 ± 0.1,0.059,37.5 (25°),3.37
+LiClO4,Benzonitrile^d,21.9 ± 0.2,0.175,25.2 (25°),4.05
+LiClO4,"Nitrobenzene^e,f",0.2 ± 0.0,,34.8 (25°),3.99
+LiClO4,"Formamide^c,e",142.1 ± 0.2,0.376,109.5 (25°),3.37
+LiClO4,"N,N-Dimethylformamide^c,e",75.0 ± 0.2,0.34,,
+LiClO4,Acetic anhydride^a,8.1 ± 0.0,0.032,20.7 (19°),2.8
+LiClO4,"2-Ethoxyethanol^d,e",136.6 ± 0.4,0.576,,2.08
+LiClO4,2-Methoxyethanol^c,78.9 ± 0.9,0.319,,
+LiClO4,"m-Cresol^d,e",8.5 ± 0.0,0.072,11.8 (25°),1.54

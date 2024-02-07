@@ -1,0 +1,5 @@
+Compound,Solvent,bmimACET,bmimSCN,bmimPF,EMITFSI
+,,,,,
+LiTFSI,bmimACET,0.18M,1.3M,0.06M,0.4M
+LiClO4,bmimSCN,0.10M,4.1M,0.09M,0.3M
+LiPF6,bmimPF,0.34M,0.60M,0.08M,0.1M

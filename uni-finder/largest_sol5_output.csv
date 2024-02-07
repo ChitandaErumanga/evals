@@ -1,0 +1,14 @@
+Compound,Solvent,Solubility (M) at 25°C
+,,
+LiTFSI,bmimACET,0.18
+LiTFSI,bmimSCN,1.3
+LiTFSI,bmimPF,0.06
+LiTFSI,EMITFSI,0.4
+LiClO4,bmimACET,0.1
+LiClO4,bmimSCN,4.1
+LiClO4,bmimPF,0.09
+LiClO4,EMITFSI,0.3
+LiPF6,bmimACET,0.34
+LiPF6,bmimSCN,0.6
+LiPF6,bmimPF,0.08
+LiPF6,EMITFSI,0.1

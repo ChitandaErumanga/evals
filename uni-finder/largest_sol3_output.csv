@@ -1,0 +1,27 @@
+Compound,Solvent,Solubility (mole fraction x),t/°C
+,,,
+LiBr,0.25 Ethanol + 0.75 DMSO,2.31 x 10^-1,25
+LiBr,0.25 Ethanol + 0.75 DMSO,2.36 x 10^-1,30
+LiBr,0.25 Ethanol + 0.75 DMSO,2.41 x 10^-1,35
+LiBr,0.25 Ethanol + 0.75 DMSO,2.48 x 10^-1,40
+LiBr,0.25 Ethanol + 0.75 DMSO,2.55 x 10^-1,45
+LiBr,0.25 DMC + 0.75 DMSO,2.07 x 10^-1,25
+LiBr,0.25 DMC + 0.75 DMSO,2.14 x 10^-1,30
+LiBr,0.25 DMC + 0.75 DMSO,2.21 x 10^-1,35
+LiBr,0.25 DMC + 0.75 DMSO,2.27 x 10^-1,40
+LiBr,0.25 DMC + 0.75 DMSO,2.34 x 10^-1,45
+LiCl,0.25 Ethanol + 0.75 DMSO,1.67 x 10^-1,25
+LiCl,0.25 Ethanol + 0.75 DMSO,1.72 x 10^-1,30
+LiCl,0.25 Ethanol + 0.75 DMSO,1.77 x 10^-1,35
+LiCl,0.25 Ethanol + 0.75 DMSO,1.81 x 10^-1,40
+LiCl,0.25 Ethanol + 0.75 DMSO,1.85 x 10^-1,45
+LiCl,0.25 DMC + 0.75 DMSO,1.27 x 10^-1,25
+LiCl,0.25 DMC + 0.75 DMSO,1.32 x 10^-1,30
+LiCl,0.25 DMC + 0.75 DMSO,1.37 x 10^-1,35
+LiCl,0.25 DMC + 0.75 DMSO,1.42 x 10^-1,40
+LiCl,0.25 DMC + 0.75 DMSO,1.47 x 10^-1,45
+LiNO3,0.25 Ethanol + 0.75 DMSO,2.18 x 10^-1,25
+LiNO3,0.25 Ethanol + 0.75 DMSO,2.24 x 10^-1,30
+LiNO3,0.25 Ethanol + 0.75 DMSO,2.31 x 10^-1,35
+LiNO3,0.25 Ethanol + 0.75 DMSO,2.37 x 10^-1,40
+LiNO3,0.25 Ethanol + 0.75 DMSO,2.43 x 10^-1,45

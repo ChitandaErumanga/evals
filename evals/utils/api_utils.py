@@ -117,6 +117,7 @@ def openai_rag_completion_create_retrying(client: OpenAI, *args, **kwargs):
         # Retrieve the run status
         run_status = client.beta.threads.runs.retrieve(thread_id=thread.id, run_id=run.id)
         time.sleep(10)
+        print(run_status)
         if run_status.status == 'completed':
             messages = client.beta.threads.messages.list(thread_id=thread.id)
             answer = messages.data[0].content[0].text.value

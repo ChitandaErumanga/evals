@@ -42,7 +42,7 @@ def parse_table_multiindex(table: pd.DataFrame, compare_fields: list = []) -> pd
     """
 
     df = table.copy()
-    if df.columns.nlevels == 1 and tuple in [type(f) for f in compare_fields]:
+    if df.columns.nlevels == 1:
         coltypes = {col: type(df[col].iloc[0]) for col in df.columns}
         for col, ctype in coltypes.items():
             if ctype == str:
