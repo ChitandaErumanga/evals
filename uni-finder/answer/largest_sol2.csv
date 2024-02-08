@@ -1,4 +1,5 @@
 ﻿Compound,Solvent,System,cs/mol dm^-3,Ir,Ms^a,Ns^b
+,,,,,,
 LiCF3SO3,EC,(A) EC in LiCF3SO3/(EC + DMC),1.5,0.39^c,2.8,1.9
 LiCF3SO3,EC,(A) EC in LiCF3SO3/(EC + DMC),1,0.28^c,2,2
 LiCF3SO3,EC,(A) EC in LiCF3SO3/(EC + DMC),0.5,0.19^c,1.4,2.7

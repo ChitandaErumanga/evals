@@ -1,3 +1,3 @@
-Compound,Solvent,ppm,Molarity (M)
+Compound,Solvent,ppm,M (mol/L)
 ,,,
-Li2CO3,DMC,6 ± 1,0.9 ± 0.2 x 10^-3
+Li2CO3,DMC,6 ± 1,0.9 ± 0.2

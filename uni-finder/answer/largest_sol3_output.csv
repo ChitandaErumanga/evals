@@ -1,50 +1,47 @@
-Compound,Solvent,Solubility at 25°C,Solubility at 30°C,Solubility at 35°C,Solubility at 40°C,Solubility at 45°C
-,,,,,,
-LiF,Ethanol,,,,,
-LiF,Acetonitrile,,,,,
-LiF,DMC,,,,,
-LiF,DMSO,,,,,
-LiF,PC,,,,,
-LiF,Ethanol + DMSO,,,,,
-LiF,DMC + DMSO,,,,,
-LiF,DMC + PC,,,,,
-LiCl,Ethanol,,,,,
-LiCl,Acetonitrile,,,,,
-LiCl,DMC,,,,,
-LiCl,DMSO,,,,,
-LiCl,PC,,,,,
-LiCl,Ethanol + DMSO,,,,,
-LiCl,DMC + DMSO,,,,,
-LiCl,DMC + PC,,,,,
-LiBr,Ethanol,,,,,
-LiBr,Acetonitrile,,,,,
-LiBr,DMC,,,,,
-LiBr,DMSO,,,,,
-LiBr,PC,,,,,
-LiBr,Ethanol + DMSO,,,,,
-LiBr,DMC + DMSO,,,,,
-LiBr,DMC + PC,,,,,
-LiNO3,Ethanol,,,,,
-LiNO3,Acetonitrile,,,,,
-LiNO3,DMC,,,,,
-LiNO3,DMSO,,,,,
-LiNO3,PC,,,,,
-LiNO3,Ethanol + DMSO,,,,,
-LiNO3,DMC + DMSO,,,,,
-LiNO3,DMC + PC,,,,,
-LiTFSI,Ethanol,,,,,
-LiTFSI,Acetonitrile,,,,,
-LiTFSI,DMC,,,,,
-LiTFSI,DMSO,,,,,
-LiTFSI,PC,,,,,
-LiTFSI,Ethanol + DMSO,,,,,
-LiTFSI,DMC + DMSO,,,,,
-LiTFSI,DMC + PC,,,,,
-LiPF6,Ethanol,,,,,
-LiPF6,Acetonitrile,,,,,
-LiPF6,DMC,,,,,
-LiPF6,DMSO,,,,,
-LiPF6,PC,,,,,
-LiPF6,Ethanol + DMSO,,,,,
-LiPF6,DMC + DMSO,,,,,
-LiPF6,DMC + PC,,,,,
+Compound,Solvent,t/°C,LiBr,LiCl,LiNO3
+,,,,,
+,0.25 Ethanol + 0.75 DMSO,25,2.31 x 10^-1,1.67 x 10^-1,2.18 x 10^-1
+,0.25 Ethanol + 0.75 DMSO,30,2.36 x 10^-1,1.72 x 10^-1,2.24 x 10^-1
+,0.25 Ethanol + 0.75 DMSO,35,2.41 x 10^-1,1.77 x 10^-1,2.31 x 10^-1
+,0.25 Ethanol + 0.75 DMSO,40,2.48 x 10^-1,1.81 x 10^-1,2.37 x 10^-1
+,0.25 Ethanol + 0.75 DMSO,45,2.55 x 10^-1,1.85 x 10^-1,2.43 x 10^-1
+,0.5 Ethanol + 0.5 DMSO,25,2.46 x 10^-1,1.83 x 10^-1,2.04 x 10^-1
+,0.5 Ethanol + 0.5 DMSO,30,2.50 x 10^-1,1.88 x 10^-1,2.09 x 10^-1
+,0.5 Ethanol + 0.5 DMSO,35,2.53 x 10^-1,1.91 x 10^-1,2.12 x 10^-1
+,0.5 Ethanol + 0.5 DMSO,40,2.58 x 10^-1,1.94 x 10^-1,2.16 x 10^-1
+,0.5 Ethanol + 0.5 DMSO,45,2.64 x 10^-1,1.95 x 10^-1,2.19 x 10^-1
+,0.75 Ethanol + 0.25 DMSO,25,2.62 x 10^-1,2.05 x 10^-1,1.89 x 10^-1
+,0.75 Ethanol + 0.25 DMSO,30,2.65 x 10^-1,2.10 x 10^-1,1.92 x 10^-1
+,0.75 Ethanol + 0.25 DMSO,35,2.68 x 10^-1,2.12 x 10^-1,1.94 x 10^-1
+,0.75 Ethanol + 0.25 DMSO,40,2.72 x 10^-1,2.14 x 10^-1,1.97 x 10^-1
+,0.75 Ethanol + 0.25 DMSO,45,2.75 x 10^-1,2.14 x 10^-1,1.99 x 10^-1
+,0.25 DMC + 0.75 DMSO,25,2.07 x 10^-1,1.27 x 10^-1,7.06 x 10^-4
+,0.25 DMC + 0.75 DMSO,30,2.14 x 10^-1,1.32 x 10^-1,7.70 x 10^-4
+,0.25 DMC + 0.75 DMSO,35,2.21 x 10^-1,1.37 x 10^-1,8.45 x 10^-4
+,0.25 DMC + 0.75 DMSO,40,2.27 x 10^-1,1.42 x 10^-1,9.28 x 10^-4
+,0.25 DMC + 0.75 DMSO,45,2.34 x 10^-1,1.47 x 10^-1,1.02 x 10^-3
+,0.5 DMC + 0.5 DMSO,25,1.29 x 10^-1,6.29 x 10^-2,4.98 x 10^-4
+,0.5 DMC + 0.5 DMSO,30,1.37 x 10^-1,6.70 x 10^-2,5.48 x 10^-4
+,0.5 DMC + 0.5 DMSO,35,1.46 x 10^-1,7.13 x 10^-2,6.06 x 10^-4
+,0.5 DMC + 0.5 DMSO,40,1.54 x 10^-1,7.56 x 10^-2,6.69 x 10^-4
+,0.5 DMC + 0.5 DMSO,45,1.63 x 10^-1,7.95 x 10^-2,7.34 x 10^-4
+,0.75 DMC + 0.25 DMSO,25,3.96 x 10^-2,1.63 x 10^-2,1.95 x 10^-4
+,0.75 DMC + 0.25 DMSO,30,4.34 x 10^-2,1.67 x 10^-2,2.16 x 10^-4
+,0.75 DMC + 0.25 DMSO,35,4.78 x 10^-2,1.70 x 10^-2,2.42 x 10^-4
+,0.75 DMC + 0.25 DMSO,40,5.26 x 10^-2,1.73 x 10^-2,2.70 x 10^-4
+,0.75 DMC + 0.25 DMSO,45,5.73 x 10^-2,1.76 x 10^-2,2.99 x 10^-4
+,0.25 DMC + 0.75 PC,25,,7.06 x 10^-4,
+,0.25 DMC + 0.75 PC,30,,7.70 x 10^-4,
+,0.25 DMC + 0.75 PC,35,,8.45 x 10^-4,
+,0.25 DMC + 0.75 PC,40,,9.28 x 10^-4,
+,0.25 DMC + 0.75 PC,45,,1.02 x 10^-3,
+,0.5 DMC + 0.5 PC,25,,4.98 x 10^-4,
+,0.5 DMC + 0.5 PC,30,,5.48 x 10^-4,
+,0.5 DMC + 0.5 PC,35,,6.06 x 10^-4,
+,0.5 DMC + 0.5 PC,40,,6.69 x 10^-4,
+,0.5 DMC + 0.5 PC,45,,7.34 x 10^-4,
+,0.75 DMC + 0.25 PC,25,,1.95 x 10^-4,
+,0.75 DMC + 0.25 PC,30,,2.16 x 10^-4,
+,0.75 DMC + 0.25 PC,35,,2.42 x 10^-4,
+,0.75 DMC + 0.25 PC,40,,2.70 x 10^-4,
+,0.75 DMC + 0.25 PC,45,,2.99 x 10^-4,

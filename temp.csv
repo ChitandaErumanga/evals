@@ -1,0 +1,43 @@
+Compound,Reactions in Li^+ and solvents,ΔE,ΔH,ΔG
+,,,,
+nan,nan,nan,nan,nan
+nan,EC + Li^+ = EC-Li^+,-50.296,-50.732,-43.933
+nan,EC + EC-Li^+ = 2EC-Li^+,-37.396,-36.811,-28.71
+nan,EC + 2EC-Li^+ = 3EC-Li^+,-22.307,-21.571,-14.928
+nan,EC + 3EC-Li^+ = 4EC-Li^+,-12.894,-12.276,-2.072
+nan,EC + 4EC-Li^+ = 5EC-Li^+,-7.393,-6.828,4.883
+nan,PC + Li^+ = PC-Li^+,-51.93,-52.38,-45.521
+nan,PC + PC-Li^+ = 2PC-Li^+,-38.178,-37.581,-29.305
+nan,PC + 2PC-Li^+ = 3PC-Li^+,-22.341,-21.591,-15.891
+nan,PC + 3PC-Li^+ = 4PC-Li^+,-12.756,-12.185,-0.313
+nan,PC + 4PC-Li^+ = 5PC-Li^+,-6.995,-6.398,6.151
+nan,DMC + Li^+ = DMC-Li^+,-44.384,-44.886,-37.731
+nan,DMC + DMC-Li^+ = 2DMC-Li^+,-33.571,-32.993,-25.422
+nan,DMC + 2DMC-Li^+ = 3DMC-Li^+,-19.255,-18.537,-9.833
+nan,DMC + 3DMC-Li^+ = 4DMC-Li^+,-8.272,-7.665,3.223
+nan,DMC + 4DMC-Li^+ = 5DMC-Li^+,-4.73,-4.296,8.221
+nan,DEC + Li^+ = DEC-Li^+,-47.607,-48.047,-41.193
+nan,DEC + DEC-Li^+ = 2DEC-Li^+,-35.106,-34.604,-25.336
+nan,DEC + 2DEC-Li^+ =3DEC-Li^+,-21.528,-20.898,-12.301
+nan,DEC + 3DEC-Li^+ = 4DEC-Li^+,-9.373,-10.087,5.854
+nan,DEC + 4DEC-Li^+ = 5DEC-Li^+,-1.702,0.404,5.331
+nan,EMC + Li^+ = EMC-Li^+,-46.042,-46.5,-39.482
+nan,EMC + EMC-Li^+ = 2EMC-Li^+,-34.414,-33.834,-25.512
+nan,EMC + 2EMC-Li^+ = 3EMC-Li^+,-19.564,-18.852,-10.513
+nan,EMC + 3EMC-Li^+ = 4EMC-Li^+,-8.469,-7.881,4.365
+nan,EMC + 4EMC-Li^+ = 5EMC-Li^+,-7.583,-6.963,1.492
+nan,DOL + Li^+ = DOL-Li^+,-37.262,-37.91,-30.1
+nan,DOL + DOL-Li^+ = 2DOL-Li^+,-29.624,-29.236,-20.422
+nan,DOL + 2DOL-Li^+ = 3DOL-Li^+,-19.355,-19.561,-6.761
+nan,DOL + 3DOL-Li^+ = 4DOL-Li^+,-12.254,-11.337,-1.786
+nan,DOL + 4DOL-Li^+ = 5DOL-Li^+,-0.4,0.2586,11.108
+nan,DME + Li^+ = DME-Li^+,-38.902,-39.4,-32.274
+nan,DME + DME-Li^+ = 2DME-Li^+,-29.225,-28.617,-20.427
+nan,DME + 2DME-Li^+ = 3DME-Li^+,-17.308,-16.847,-6.388
+nan,DME + 3DME-Li^+ = 4DME-Li^+,-4.868,-4.709,9.38
+nan,DME + 4DME-Li^+ = 5DME-Li^+,-0.0419,1.364,4.568
+nan,THF + Li^+ = THF-Li^+,-43.359,-43.987,-36.229
+nan,THF + THF-Li^+ = 2THF-Li^+,-33.83,-33.453,-24.196
+nan,THF + 2THF-Li^+ = 3THF-Li^+,-21.442,-21.075,-10.366
+nan,THF + 3THF-Li^+ = 4THF-Li^+,-12.871,-12.318,-2.31
+nan,THF + 4THF-Li^+ = 5THF-Li^+,0.4,1.057,13.034

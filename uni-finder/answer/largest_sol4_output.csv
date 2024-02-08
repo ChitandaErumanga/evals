@@ -1,4 +1,4 @@
-Compound,Solvent,ΔHsub (kcal/mol),ΔHsol (kcal/mol),ΔHdissol (kcal/mol)
+Compound,Solvent,△Hsub,△Hsol,△Hdissol
 ,,,,
 Li2O,DMC,98.97,-55.72,42.66
 Li2CO3,DMC,88.97,56.77,31.61
